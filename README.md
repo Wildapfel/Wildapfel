@@ -1,7 +1,9 @@
 ## Hello World
 
 - This profile is meant to give you a little insight into my workflow as a bioinformatician (portfolio)
-- Currently I am seeking a bioinformatical position after graduating with a masters degree in Bioinformatics
+- Currently I am seeking a bioinformatical position after graduating with a masters degree in Bioinformatics form MLU Halle (Germany)
+
+*I’m currently working on*
 
 
 <!--
