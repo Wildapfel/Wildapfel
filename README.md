@@ -1,6 +1,7 @@
 ## Hello World
 
-- My profile is meant to give you a little insight into my workflow as a bioinformatician (portfolio
+- This profile is meant to give you a little insight into my workflow as a bioinformatician (portfolio)
+- Currently I am seeking a bioinformatical position after graduating with a masters degree in Bioinformatics
 
 
 <!--
