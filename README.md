@@ -4,9 +4,9 @@
 - Currently I am seeking a bioinformatical position after graduating with a masters degree in Bioinformatics form MLU Halle (Germany)
 
 *I’m currently working on*
-- Creating a creater folder that reflects all my knowledge and projects from uni
-- I am writing a creater codebase for my bioinforamtics/biostatistics/ML/AI work to enhance reproduceability and reaching a professional level (moving away from notebooks)
-- Perform different analysis or enginnering tasks onto public data  
+- Creating a creater HUB that reflects all my knowledge and projects from uni and private interest (structured, such that i find stuff easily)
+- I am writing a creater codebase for my bioinforamtics/biostatistics/ML/AI work to enhance reproduceability and reaching a professional level
+- Perform different analysis or enginnering tasks onto public data (rna-seq of arabidposis thaliana, pneumonia classifier, ...)
 
 
 <!--
