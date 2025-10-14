@@ -1,4 +1,8 @@
 ## Hello World
+
+- My profile is meant to give you a little insight into my workflow as a bioinformatician (portfolio
+
+
 <!--
 **Wildapfel/Wildapfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
