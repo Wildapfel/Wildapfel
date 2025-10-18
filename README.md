@@ -5,6 +5,7 @@
 - Located in Dresden (Saxony, Germany)
 - Currently I am seeking a Bioinformatics remote position
 - I am showing my bioinformatics workflows, meant to be my portfolio for applications
+- The workflows are private, I only make you a contributor if I apply at your company
 
 *I’m currently working on*
 - Creating a creater HUB that reflects all my knowledge and projects from uni and private interest (structured, such that i find stuff easily)
