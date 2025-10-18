@@ -2,8 +2,8 @@
 
 - B.Sc. Molecular Biology & Biotechnology (TU Dresden)
 - M.Sc. Bioinformatics (MLU Halle)
-- Currently I am seeking a bioinformatical remote position
-- I am showing my bioinformatics workflow, meant to be my portfolio for applications
+- Currently I am seeking a Bioinformatics remote position
+- I am showing my bioinformatics workflows, meant to be my portfolio for applications
 
 *I’m currently working on*
 - Creating a creater HUB that reflects all my knowledge and projects from uni and private interest (structured, such that i find stuff easily)
