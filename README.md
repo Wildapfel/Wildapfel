@@ -1,7 +1,9 @@
-## Hello World
+## Welcome to my Github
 
-- This profile is meant to give you a little insight into my workflow as a bioinformatician (portfolio)
-- Currently I am seeking a bioinformatical position after graduating with a masters degree in Bioinformatics form MLU Halle (Germany)
+- B.Sc. Molecular Biology & Biotechnology (TU Dresden)
+- M.Sc. Bioinformatics (MLU Halle)
+- Currently I am seeking a bioinformatical remote position
+- I am showing my bioinformatics workflow, meant to be my portfolio for applications
 
 *I’m currently working on*
 - Creating a creater HUB that reflects all my knowledge and projects from uni and private interest (structured, such that i find stuff easily)
