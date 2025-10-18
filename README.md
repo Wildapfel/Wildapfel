@@ -2,6 +2,7 @@
 
 - B.Sc. Molecular Biology & Biotechnology (TU Dresden)
 - M.Sc. Bioinformatics (MLU Halle)
+- Located in Dresden (Saxony, Germany)
 - Currently I am seeking a Bioinformatics remote position
 - I am showing my bioinformatics workflows, meant to be my portfolio for applications
 
