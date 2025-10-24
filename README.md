@@ -11,8 +11,6 @@
 - Sequence Modelling
 - Motif Discovery & Localisation (statisitcal & ML/AI)
 - DGE Analysis
-- 
-
 
 *I’m currently working on*
 - Creating a creater HUB that reflects all my knowledge and projects from uni and private interest (structured, such that i find stuff easily)
