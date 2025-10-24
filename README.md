@@ -17,7 +17,7 @@
 - DGE Analysis
 - Bio-Image Analysis
 
-### Languages & Frameworks
+### *Languages & Frameworks*
 - python, R, java, C, bash 
 - tensorflow/keras
 - scikit-learn, scikit-Image, scipy
