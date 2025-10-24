@@ -9,13 +9,13 @@
 
 ### *Theses*
 - Discovering & Localizing Motifs in DAP-seq data with CNNs and XAI (Integrated Gradients)
-- Quantification of Embroy Nuclei of Flatworm using CNNs and tracked 4D image data  (Bachelor)
+- Quantification of Embryo Nuclei of Flatworm using CNNs and tracked 4D image data  (Bachelor)
 
 ### *Skills*
 - Sequence Modelling
 - Motif Discovery & Localisation (statisitcal & ML/AI)
 - DGE Analysis
-- BioImage Analysis
+- Bio-Image Analysis
 
 ### *I’m currently working on*
 - Creating a HUB that reflects all my knowledge and projects from uni and private interest (structured, such that i find stuff easily)
