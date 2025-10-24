@@ -1,4 +1,4 @@
-## Welcome to my Github
+# *Welcome to my Github*
 
 - B.Sc. Molecular Biology & Biotechnology (TU Dresden)
 - M.Sc. Bioinformatics (MLU Halle)
