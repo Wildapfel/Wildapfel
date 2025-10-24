@@ -17,6 +17,14 @@
 - DGE Analysis
 - Bio-Image Analysis
 
+### Languages & Frameworks
+- Python, R, Java, C, Bash 
+- TensorFlow/keras,
+- Scikit-learn, Scikit-Image, scipy
+- pandas, numpy, matplotlib, BioPython
+- Bash, Git, Conda
+- Snakemake
+
 ### *I’m currently working on*
 - Creating a HUB that reflects all my knowledge and projects from uni and private interest (structured, such that i find stuff easily)
 - I am writing a codebase for my bioinforamtics/biostatistics/ML/AI work to enhance reproduceability and reaching a professional level
