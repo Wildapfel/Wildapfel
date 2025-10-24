@@ -8,7 +8,10 @@
 - The workflows are private, I only make you a contributor if I apply at your company
 
 ### *Skills*
-
+- Sequence Modelling
+- Motif Discovery & Localisation (statisitcal & ML/AI)
+- DGE Analysis
+- 
 
 
 *I’m currently working on*
