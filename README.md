@@ -18,12 +18,12 @@
 - Bio-Image Analysis
 
 ### Languages & Frameworks
-- Python, R, Java, C, Bash 
-- TensorFlow/keras,
-- Scikit-learn, Scikit-Image, scipy
-- pandas, numpy, matplotlib, BioPython
-- Bash, Git, Conda
-- Snakemake
+- python, R, java, C, bash 
+- tensorflow/keras
+- scikit-learn, scikit-Image, scipy
+- pandas, numpy, matplotlib, biopython
+- bash, git, conda
+- snakemake
 
 ### *I’m currently working on*
 - Creating a HUB that reflects all my knowledge and projects from uni and private interest (structured, such that i find stuff easily)
