@@ -7,6 +7,10 @@
 - I am showing my bioinformatics workflows, meant to be my portfolio for applications
 - The workflows are private, I only make you a contributor if I apply at your company
 
+### *Theses*
+- Discovering & Localizing Motifs in DAP-seq data with CNNs and XAI (Integrated Gradients)
+- Quantification of Embroy Nuclei of Flatworm using CNNs and tracked 4D image data  (Bachelor)
+
 ### *Skills*
 - Sequence Modelling
 - Motif Discovery & Localisation (statisitcal & ML/AI)
