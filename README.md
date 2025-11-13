@@ -33,4 +33,32 @@
 
 
 
+<!-- 
+#### Programmatic Skills
+
+*   **Languages:** 
+    - Python, C, Java, R, Bash
+*   **Machine Learning/Deep Learning:** 
+    - TensorFlow/Keras, scikit-learn (Python)
+*   **Data Science:**
+    - pandas, numpy, scipy (Python)
+    - tidyverse (R)
+*   **Visualization:**
+    - matplotlib, seaborn, plotly (Python) 
+    - ggplot2, tidyverse (R)
+*   **Image Processing:**
+    - scikit-image
+*   **Workflow & Reproducibility:** 
+    - Snakemake, Conda, Docker, Git
+
+#### Bioinformatics Expertise
+
+*   **NGS Analysis:** 
+    - RNA-seq (Bulk), Differential Expression (DESeq2, edgeR), Quality Control (FastQC, MultiQC), Read Quantification (Kallisto, Salmon)
+*   **Bioinformatics Tools:**
+    - **Genome Analysis:** SAMtools, BEDTools, BCFtools
+    - **Sequence Analysis:** BLAST, HMMER, MUSCLE
+    - **Genome Browsers:** IGV, Tablet
+
+## Research Projects -->
 
