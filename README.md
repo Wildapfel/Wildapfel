@@ -8,6 +8,10 @@
 - Discovering & Localizing Motifs in DAP-seq data with CNNs and XAI (Integrated Gradients)
 - Quantification of Embryo Nuclei of Flatworm using CNNs and tracked 4D image data  (Bachelor)
 
+
+# *Note*
+- I am still builing this page
+
 <!--
 ### *Skills*
 - Sequence Modelling
