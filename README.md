@@ -8,8 +8,12 @@
 - Discovering & Localizing Motifs in DAP-seq data with CNNs and XAI (Integrated Gradients)
 - Quantification of Embryo Nuclei of Flatworm using CNNs and tracked 4D image data  (Bachelor)
 
+### *Ideas*
+- Adapt Snakemake to my "needs" 
+- Python wrapper for matplotlib and bioifnroamtical plots to remove boilerplate code in noteboos
 
-# *Note*
+### *Note*
+- I have a private portfolio that I share with people via ssh-keys
 - I am still builing this page
 
 <!--
