@@ -3,8 +3,8 @@
 Hey people, 
 I have a background in Bioinformatics and enjoy coding. 
 
-**Eperienced in** 
--Python, Java, C, R, Bash, Latex 
+**Eperienced in**  
+- Python, Java, C, R, Bash, Latex 
 <!--
 ### *Skills*
 - Sequence Modelling
