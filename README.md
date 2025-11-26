@@ -1,4 +1,4 @@
-# *Welcome to my Github* :bowtie: :bowtie: :bowtie:
+# *Welcome to my Github* :grin:
 
 
 
