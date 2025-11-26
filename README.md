@@ -1,24 +1,9 @@
 # *Welcome to my Github* :collision:
 
+Hey people, 
+I have a background in Bioinformatics and enjoy coding. 
 
-
-- B.Sc. Molecular Biology & Biotechnology (TU Dresden)
-- M.Sc. Bioinformatics (MLU Halle)
-- Located in Dresden (Saxony, Germany)
-- I am atively seeking a Bioinformatics remote position
-
-### *Theses*
-- Discovering & Localizing Motifs in DAP-seq data with CNNs and XAI (Integrated Gradients)
-- Quantification of Embryo Nuclei of Flatworm using CNNs and tracked 4D image data  (Bachelor)
-
-### *Ideas*
-- Adapt Snakemake to my "needs" 
-- Python wrapper for matplotlib and bioifnroamtical plots to remove boilerplate code in noteboos
-
-### *Note*
-- I have a private portfolio that I share with people via ssh-keys
-- I am still builing this page
-
+Python, Java, C, R, Bash, Latex 
 <!--
 ### *Skills*
 - Sequence Modelling
