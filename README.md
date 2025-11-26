@@ -1,4 +1,7 @@
-# *Welcome to my Github*
+# *Welcome to my Github* :bowtie:
+
+
+
 - B.Sc. Molecular Biology & Biotechnology (TU Dresden)
 - M.Sc. Bioinformatics (MLU Halle)
 - Located in Dresden (Saxony, Germany)
