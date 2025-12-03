@@ -11,10 +11,9 @@ I have a background in Bioinformatics and enjoy coding.
 
 **Languages**  
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)" alt="cLang" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="45" height="45"/>
 </p>
-- Python, Java, C, R, Bash, Latex 
 <!--
 ### *Skills*
 - Sequence Modelling
