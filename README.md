@@ -1,7 +1,7 @@
 # *Welcome to my Github* :collision:
 
 Hey people, 
-I have a background in Bioinformatics and enjoy coding. 
+I enjoy coding and have a background in Bioinformatics.
 
 **Languages**  
 <p align="left">
