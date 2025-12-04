@@ -3,7 +3,10 @@
 Hey people, 
 I enjoy coding and have a background in Bioinformatics.
 
-
+**About me**
+- I work with Python, R, Bash and Latex in Bioinformatics Projects using Snakemake, Git, Anaconda and Docker
+- I use Java for its entensive Core Library, JVM and reasonable speed
+- I taugth myself C with some smaller projects and books, I was motivated by the simple integration into Python, its speed and the deeper understading of memory in computers   
 
 **Languages**  
 <p align="left">
