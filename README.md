@@ -9,7 +9,7 @@ I enjoy coding and have a background in Bioinformatics.
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="45" height="45"/>
 <img src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg" alt="Java" width="90" height="90">
 <img src="https://en.wikipedia.org/wiki/R_(programming_language)#/media/File:R_logo.svg" alt="Java" width="45" height="45">
-<img src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg" alt="Java" width="90" height="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Java" width="90" height="90">
 <img src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg" alt="Java" width="90" height="90">
 </p>
 
