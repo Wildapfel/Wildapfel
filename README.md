@@ -14,7 +14,7 @@ I have a background in Bioinformatics and enjoy coding.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="45" height="45"/>
 <img src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg" alt="Java" width="90" height="90">
-<img src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg" alt="Java" width="90" height="90">
+<img src="https://commons.wikimedia.org/wiki/File:R_logo.svg" alt="Java" width="45" height="45">
 <img src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg" alt="Java" width="90" height="90">
 <img src="https://openwhisk.apache.org/images/runtimes/logo-java-text-color.svg" alt="Java" width="90" height="90">
 </p>
