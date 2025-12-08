@@ -7,6 +7,11 @@ I enjoy coding and have a background in Bioinformatics.
 - I work with Python, R, Bash and Latex in Bioinformatics Projects using Snakemake, Git, Anaconda and Docker
 - I use Java for its entensive Core Library, JVM and reasonable speed
 - I taugth myself C with some smaller projects and books, I was motivated by the simple integration into Python, its speed and the deeper understading of memory in computers   
+- I am currently working on a portfolio to showcase my work skills, doing that I work with vscode and jupyter notebooks andI relaize that some ahnd functionality for bioinformatics analysis is missing
+
+**Ideas**
+- Write a matplotlib wrapper that reduces boilerplate code in the notebooks and bound specifc plot function to the axes API (R like plots)
+- Select patterns from matplotlib plots and translate that into the corresponding table selection (e.g. healty and unhealty cluster, maybe some outlier)
 
 **Languages**  
 <p align="left">
@@ -17,6 +22,3 @@ I enjoy coding and have a background in Bioinformatics.
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="45" height="45">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LaTeX-Dark.svg" alt="Latex" width="45" height="45">
 </p>
-
-**Note**
-- This profile is still undr progress
