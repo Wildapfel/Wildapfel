@@ -7,7 +7,7 @@ I enjoy coding and have a background in Bioinformatics.
 - I work with Python, R, Bash and Latex in Bioinformatics Projects using Snakemake, Git, Anaconda and Docker
 - I use Java for its entensive Core Library, JVM and reasonable speed
 - I taugth myself C with some smaller projects and books, I was motivated by the simple integration into Python, its speed and the deeper understading of memory in computers   
-- I am currently working on a portfolio to showcase my work skills, doing that I work with vscode and jupyter notebooks andI relaize that some ahnd functionality for bioinformatics analysis is missing
+- I am currently working on a portfolio to showcase my work skills, doing that I work with vscode and jupyter notebooks and I relaize that some handy functionality for bioinformatics analysis is missing
 
 **Ideas**
 - Write a matplotlib wrapper that reduces boilerplate code in the notebooks and bound specifc plot function to the axes API (R like plots)
