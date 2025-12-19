@@ -1,7 +1,7 @@
 # *Welcome to my Github* :collision:
 
 Hey people, 
-I enjoy coding and have a background in Bioinformatics. I am currently making my steps towards a bioinformatics machine learning professional, writing reprodcuable projects with Makefiles and Snakemake.  
+I enjoy coding and have a background in Bioinformatics. I am currently making my steps towards a Bioinformatics Machine Learning professional, writing reprodcuable projects with Makefiles and Snakemake, and leveraging my uni skills. 
 
 **About me**
 - I work with Python, R, Bash and Latex in Bioinformatics Projects using Snakemake, Git, Anaconda and Docker
