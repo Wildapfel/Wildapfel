@@ -11,7 +11,6 @@ I enjoy coding and have a background in Bioinformatics. I am currently making my
 
 **Ideas**
 - Write a matplotlib wrapper that reduces boilerplate code in the notebooks and bound specifc plot function to the axes API (R like plots)
-- Select patterns from matplotlib plots and translate that into the corresponding table selection (e.g. healty and unhealty cluster, maybe some outlier)
 
 **Languages**  
 <p align="left">
