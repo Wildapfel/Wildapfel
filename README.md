@@ -10,7 +10,7 @@ I enjoy coding and have a background in Bioinformatics. I am currently making my
 - I am currently working on a portfolio to showcase my work skills
 
 **Projects**
-- I am currently also refactorin my uni folder, personal coding project and exercise, books, notes, summarize into a greater HUB, allwoing me to have a metnal model for handling complex topics and makeing code reusbale 
+- I am currently also refactorin my uni folder, personal coding project and exercise, books, notes, summarize ,... into a greater HUB, allwoing me to have a metnal model for handling complex topics and makeing code reusbale 
 - Write a matplotlib wrapper that reduces boilerplate code in the notebooks and bound specifc plot function to the axes API (R like plots)
 
 **Languages**  
