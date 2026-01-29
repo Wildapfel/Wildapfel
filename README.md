@@ -22,3 +22,6 @@ I enjoy coding and have a background in Bioinformatics. I am currently making my
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Bash" width="45" height="45">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LaTeX-Dark.svg" alt="Latex" width="45" height="45">
 </p>
+
+**OS**
+Fedora Silverblue
