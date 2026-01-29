@@ -25,5 +25,5 @@ I enjoy coding and have a background in Bioinformatics. I am currently making my
 
 **OS**  
 <p align="left">
-  <img src="https://static.wikia.nocookie.net/fedora/images/e/e3/Silverblue-logo.png/revision/latest?cb=20190502231525" alt="Silverblue" width="45" height="45">
+  <img src="https://static.wikia.nocookie.net/fedora/images/e/e3/Silverblue-logo.png/revision/latest?cb=20190502231525" alt="Silverblue" width="45" height="60">
 </p>
