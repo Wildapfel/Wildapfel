@@ -4,7 +4,7 @@ Hey people,
 I enjoy coding and have a background in Bioinformatics. I am currently making my steps towards a Bioinformatics Machine Learning professional, writing reprodcuable projects with Makefiles and Snakemake, and leveraging my uni skills. 
 
 **About me**
-- I work with Python, R, Bash and Latex in Bioinformatics Projects using Snakemake, Git, Anaconda and Docker
+- I work with Python, R, Bash and Latex in Bioinformatics Projects using Snakemake, Git, Anaconda/Mamba and Docker
 - I use Java for its entensive Core Library, JVM and reasonable speed
 - I taugth myself C with some smaller projects and books, I was motivated by the simple integration into Python, its speed and the deeper understading of memory in computers   
 - I am currently working on a portfolio to showcase my work skills
