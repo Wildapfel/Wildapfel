@@ -12,10 +12,6 @@ I want to welcome you on my GitHub page.  I am a professional bioinformatician a
 - I taugth myself C with some smaller projects and books, I was motivated by the simple integration into Python, its speed and the deeper understading of memory in computers   
 - I am currently working on a portfolio to showcase my work skills
 
-**Projects**
-- I am currently also refactoring my uni folders, personal coding project, exercise, books, notes, summaries,... into a greater future-prove HUB, allowing me to have a clear mental model for future work, to handle complex topics and makeing code reusbale 
-- Write a matplotlib wrapper that reduces boilerplate code in the notebooks and bound specifc plot function to the axes API (R like plots)
-
 **Languages**  
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="45" height="45"/>
