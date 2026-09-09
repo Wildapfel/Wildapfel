@@ -33,7 +33,7 @@ I want to welcome you on my GitHub page.  I am a professional bioinformatician a
 
 **Contact me**
 
-- I available for collaboration and consulting
+- I am available for collaboration and consulting
 - email: petzold.bioinfo@gmail.com
 
 
