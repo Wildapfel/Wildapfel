@@ -6,16 +6,16 @@ I want to welcome you on my GitHub page.  I am a professional bioinformatician a
 - *Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes* - A pipeline to detect structural repeats across evolution of eukaryotes transcriptomes.
 
 **Working Style** 
-Reproducibility + Orchestration
+*Reproducibility + Orchestration*
 - Containerized projects using Docker
 - Project-specific envs (R and Python)
 - Snakemake + Makefile + Conda/Mamba
-Risk mitigation
+*Risk mitigation*
 - Automated backup + Git (full traceability, no code loss)
 - Cold Storage (Archives)
-Self-management
+*Self-management*
 - Obsidian “second brain” for organization (notes, methods, commands, ...)
-Programming Languages
+*Programming Languages*
 - Python: Data manipulation, pipeline orchestration, ML
 - R: Statistical analysis, visualization, native packages (bioinformatics)
 - Bash: Linux orchestration, wrapping workflows
@@ -23,7 +23,7 @@ Programming Languages
 - C: Accelerate Python bottlenecks
 - Latex: Documents
 - Markdown: README’s, comments, quick documentation
-Operating System
+*Operating System*
 - Fedora Workstation / Fedora Silverblue
 
 **Languages**  
