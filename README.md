@@ -1,4 +1,4 @@
-# *Welcome to my Github* :collision:
+# *Hey, I am Max Petzold* :collision:
 
 Hey people, 
 I enjoy coding and have a background in Bioinformatics. I am currently making my steps towards a Bioinformatics Machine Learning professional, writing reprodcuable projects with Makefiles and Snakemake, and leveraging my uni skills. 
