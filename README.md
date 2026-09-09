@@ -1,6 +1,6 @@
 # *Hey, I am Max Petzold*
 
-I want to welcome you on my official GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics.  
+I want to welcome you on my GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics.  
 
 **About me**
 - I work with Python, R, Bash and Latex in Bioinformatics Projects using Snakemake, Git, Anaconda/Mamba and Docker/Podman
