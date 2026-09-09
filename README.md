@@ -1,7 +1,6 @@
 # *Hey, I am Max Petzold*
 
-Hey people, 
-I enjoy coding and have a background in Bioinformatics. I am currently making my steps towards a Bioinformatics Machine Learning professional, writing reprodcuable projects with Makefiles and Snakemake, and leveraging my uni skills. 
+I want to welcome you on my official GitHub page.  I am a professional bioinformatician and programmer with a university background.  
 
 **About me**
 - I work with Python, R, Bash and Latex in Bioinformatics Projects using Snakemake, Git, Anaconda/Mamba and Docker/Podman
