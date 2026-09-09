@@ -32,4 +32,6 @@ I want to welcome you on my GitHub page.  I am a professional bioinformatician a
 - Fedora Workstation / Fedora Silverblue
 
 **Contact me**
-email: petzold.bioinfo@gmail.com
+
+- I available for collaboration and consulting
+- email: petzold.bioinfo@gmail.com
