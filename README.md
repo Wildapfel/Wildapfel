@@ -27,5 +27,5 @@ I want to welcome you on my GitHub page.  I am a professional bioinformatician a
   <img src="https://static.wikia.nocookie.net/fedora/images/e/e3/Silverblue-logo.png/revision/latest?cb=20190502231525" alt="Silverblue" width="45" height="60">
 </p>
 
-*Contact me*
-
+**Contact me**
+email: petzold.bioinfo@gmail.com
