@@ -2,6 +2,10 @@
 
 I want to welcome you on my GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I am passionate about open science, omics, and building reproducible pipelines.
 
+**Current Projects**
+- "Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes"
+
+
 **About me**
 - I work with Python, R, Bash and Latex in Bioinformatics Projects using Snakemake, Git, Anaconda/Mamba and Docker/Podman
 - I use Java for its entensive Core Library, JVM and reasonable speed
