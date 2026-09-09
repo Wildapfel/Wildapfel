@@ -3,7 +3,7 @@
 I want to welcome you on my GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I am passionate about open science, omics, and building reproducible pipelines.
 
 **Current Projects**
-- *Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*
+- *Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes* - A pipeline to detect structural repeats across evolution of eukaryotes transcriptomes.
 
 
 **About me**
