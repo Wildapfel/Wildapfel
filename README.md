@@ -7,11 +7,11 @@
 Welcome to my GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I focus on building intelligent systems applied to biological data and research.
 
 <details>
-
 <summary>Publication</summary>
-
-
 - [*Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*](https://github.com/Wildapfel/compression-transcriptomes) - A pipeline to detect structural repeats across evolution of eukaryotes transcriptomes. 
+</details>
+
+
 
 #### Theses
 - [*Methods for interpreting neuronal nets in sequence data analysis*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/master) - *Master's thesis*
