@@ -8,23 +8,15 @@ Welcome to my GitHub page.  I am a professional bioinformatician and programmer 
 
 <details>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Portfolio</summary>
 
-### You can add a header
-
-You can add text within a collapsed section.
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
+**Current Publication** 
+- [*Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*](https://github.com/Wildapfel/compression-transcriptomes) - A pipeline to detect structural repeats across evolution of eukaryotes transcriptomes. 
 
 </details>
 
 
-**Current Publication** 
-- [*Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*](https://github.com/Wildapfel/compression-transcriptomes) - A pipeline to detect structural repeats across evolution of eukaryotes transcriptomes. 
+
 
 **Master's Thesis**
 - [*Methods for interpreting neuronal nets in sequence data analysis*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/master)
