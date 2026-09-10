@@ -25,7 +25,9 @@ Welcome to my GitHub page.  I am a professional bioinformatician and programmer 
 </details>
 
 
-**Donation**
-
+<details>
+<summary>Donations</summary>
 - Since I am not financially backed up by institutes and I am doing independent research, I kindly ask for your support
 - [paypal.me/petzoldbioinfo](paypal.me/petzoldbioinfo)
+</details>
+
