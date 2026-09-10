@@ -9,31 +9,10 @@ Welcome to my GitHub page.  I am a professional bioinformatician and programmer 
 **Current Publication** 
 - [*Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*](https://github.com/Wildapfel/compression-transcriptomes) - A pipeline to detect structural repeats across evolution of eukaryotes transcriptomes. 
 
-**Working Style**  
+**Theses**
+- Bachelor
+  [*Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes,Macrostomorpha)*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/bachelor)
 
-*Reproducibility + Orchestration*
-- Containerized projects using Docker
-- Project-specific envs (R and Python)
-- Snakemake + Makefile + Conda/Mamba
-
-*Risk mitigation*
-- Automated backup + Git (full traceability, no code loss)
-- Cold Storage (Archives)
- 
-*Self-management*
-- Obsidian “second brain” for organization (notes, methods, commands, ...)
- 
-*Programming Languages*
-- Python: Data manipulation, pipeline orchestration, ML
-- R: Statistical analysis, visualization, native packages (bioinformatics)
-- Bash: Linux orchestration, wrapping workflows
-- Java: Team-ready coding standards
-- C: Accelerate Python bottlenecks
-- Latex: Documents
-- Markdown: README’s, comments, quick documentation
-
-*Operating System*
-- Fedora Workstation / Fedora Silverblue
 
 **Contact me**
 
