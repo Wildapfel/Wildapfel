@@ -17,11 +17,12 @@ Welcome to my GitHub page.  I am a professional bioinformatician and programmer 
 - [*Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum lignano (Plathelminthes, Macrostomorpha)*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/bachelor) - *Bachelor's thesis*
 </details>
 
-  
-**Contact me**
+<details>
+<summary>Contact me</summary>
 
 - I am available for collaboration and consulting
 - petzold.bioinfo@gmail.com
+</details>
 
 
 **Donation**
