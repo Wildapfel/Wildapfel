@@ -1,4 +1,6 @@
-![](https://github.com/Wildapfel/portfolio/blob/master/images/dna_alphabet.jpg)
+<div align="center">
+    <img src="https://github.com/Wildapfel/portfolio/blob/master/images/dna_alphabet.jpg" width="800" height="150" />
+</div>
 
 # *Hey, I am Max Petzold*
 
