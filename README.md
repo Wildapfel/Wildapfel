@@ -18,10 +18,10 @@ Welcome to my GitHub page.  I am a professional bioinformatician and programmer 
 **Contact me**
 
 - I am available for collaboration and consulting
-- email: petzold.bioinfo@gmail.com
+- petzold.bioinfo@gmail.com
 
 
 **Donation**
 
 - Since I am not financially backed up by institutes and I am doing independent research, I kindly ask for your support
-- paypal: [paypal.me/petzoldbioinfo](paypal.me/petzoldbioinfo)
+- [paypal.me/petzoldbioinfo](paypal.me/petzoldbioinfo)
