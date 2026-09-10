@@ -1,6 +1,6 @@
 # *Hey, I am Max Petzold*
 
-Welcome on my GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I focus on building intelligent systems applied to biological data and biological research.
+Welcome to my GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I focus on building intelligent systems applied to biological data and biological research.
 
 **Current Projects** 
 - *Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes* - A pipeline to detect structural repeats across evolution of eukaryotes transcriptomes.
