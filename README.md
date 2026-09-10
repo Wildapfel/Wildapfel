@@ -8,7 +8,6 @@ Welcome to my GitHub page.  I am a professional bioinformatician and programmer 
 
 <details>
 <summary>Publication</summary>
-##### asd
     
 - [*Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*](https://github.com/Wildapfel/compression-transcriptomes) - A pipeline to detect structural repeats across evolution of eukaryotes transcriptomes. 
 </details>
