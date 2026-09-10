@@ -1,3 +1,5 @@
+![](https://github.com/Wildapfel/portfolio/blob/master/images/dna_alphabet.jpg)
+
 # *Hey, I am Max Petzold*
 
 Welcome to my GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I focus on building intelligent systems applied to biological data and biological research.
