@@ -15,9 +15,6 @@ Welcome to my GitHub page.  I am a professional bioinformatician and programmer 
 
 #### Theses
 - [*Methods for interpreting neuronal nets in sequence data analysis*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/master) - *Master's thesis*
-
-
-#### Bachelor's Thesis 
 - [*Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes, Macrostomorpha)*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/bachelor) - *Bachelor's thesis*
 
 </details>
