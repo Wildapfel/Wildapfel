@@ -11,8 +11,6 @@ Welcome to my GitHub page.  I am a professional bioinformatician and programmer 
 
 **Master's Thesis**
 - [*Methods for interpreting neuronal nets in sequence data analysis*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/master)
-- *Master's Thesis:* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 
 **Contact me**
