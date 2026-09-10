@@ -11,7 +11,7 @@ Welcome to my GitHub page.  I am a professional bioinformatician and programmer 
 
 **Theses**
 - Bachelor
-      - [*Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes,Macrostomorpha)*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/bachelor)
+    - [*Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes,Macrostomorpha)*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/bachelor)
       
 
 
