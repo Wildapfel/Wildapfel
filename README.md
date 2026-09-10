@@ -6,6 +6,23 @@
 
 Welcome to my GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I focus on building intelligent systems applied to biological data and research.
 
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
+
 **Current Publication** 
 - [*Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*](https://github.com/Wildapfel/compression-transcriptomes) - A pipeline to detect structural repeats across evolution of eukaryotes transcriptomes. 
 
