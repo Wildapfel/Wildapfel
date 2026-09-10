@@ -10,8 +10,9 @@ Welcome to my GitHub page.  I am a professional bioinformatician and programmer 
 - [*Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*](https://github.com/Wildapfel/compression-transcriptomes) - A pipeline to detect structural repeats across evolution of eukaryotes transcriptomes. 
 
 **Theses**
-- [*Methods for interpreting neuronal nets in sequence data analysis*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/master), Master
-- [*Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes,Macrostomorpha)*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/bachelor), Bachelor
+- [*Methods for interpreting neuronal nets in sequence data analysis*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/master), *Master*
+- [*Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes,Macrostomorpha)*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/bachelor), *Bachelor*
+
 
 
 **Contact me**
