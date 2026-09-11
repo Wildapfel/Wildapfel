@@ -35,9 +35,9 @@ I am open for collaboration, consulting and freelance work.
 </details>
 
 <details>
-<summary>Resumee</summary>
+<summary>Curriculum Vitae</summary>
 
-- still under construction
+- coming soon
 </details>
 
 <details>
