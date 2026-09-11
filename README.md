@@ -19,7 +19,7 @@ I am open for collaboration and freelance work.
 <details>
 <summary>Theses</summary>
 
-#### [*Methods for interpreting neuronal nets in sequence data analysis*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/master) 
+##### [*Methods for interpreting neuronal nets in sequence data analysis*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/master) 
 - *Master's thesis*
 
 ##### [*Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum lignano (Plathelminthes, Macrostomorpha)*](https://github.com/Wildapfel/portfolio/tree/master/projects/theses/bachelor) 
