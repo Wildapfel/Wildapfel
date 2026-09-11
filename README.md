@@ -43,7 +43,6 @@ I am open for collaboration, consulting and freelance work.
 <details>
 <summary>Contact me</summary>
 
-- I am available for collaboration and consulting
 - petzold.bioinfo@gmail.com
 </details>
 
