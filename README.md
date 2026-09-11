@@ -50,8 +50,8 @@ I am open for collaboration and freelance work.
 
 
 <details>
-<summary>Fund me</summary>
+<summary>Independent Research</summary>
     
-- If you like to support my independent research, you can do so here: [paypal.me/petzoldbioinfo](https://paypal.me/petzoldbioinfo)
+- If you'd like to support my independent research, you can do so here: [paypal.me/petzoldbioinfo](https://paypal.me/petzoldbioinfo)
 </details>
 
