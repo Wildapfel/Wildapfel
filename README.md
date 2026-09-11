@@ -29,7 +29,7 @@ I am open for collaboration and freelance work.
 <summary>Projects</summary>
     
 - EUS 
-    - ML for the prediction of phosphate from field sensory data (agriculture)
+    - ML for the prediction of phosphate from soil sensor data (NFR, EC, ph)
     - Student assistant job at MLU Halle 
     - coming soon
 </details>
