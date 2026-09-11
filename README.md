@@ -2,7 +2,7 @@
     <img src="https://github.com/Wildapfel/portfolio/blob/master/images/dna_alphabet.jpg" width="800" height="150" />
 </div>
 
-# *Welcome*
+# *Hello World*
 
 I am a bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I emphasize reproducibility and scalability in bioinformatics projects.
 
