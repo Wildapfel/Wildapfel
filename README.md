@@ -29,7 +29,7 @@ I am available for collaboration, consulting and freelance work.
 <summary>Projects</summary>
     
 - EUS 
-    - ML for the prediction of phosphate from soil sensor data (NIR, EC, ph)
+    - ML for the prediction of phosphate from soil sensor data (NIR, EC, pH)
     - Student assistant job at MLU Halle 
     - coming soon
 </details>
