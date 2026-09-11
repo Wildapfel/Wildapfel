@@ -5,7 +5,7 @@
 # *Hello World*
 
 I am a bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I emphasize reproducibility and scalability in bioinformatics projects.
-
+I am open for collaboration and freelance work.
 
 I am versatile using different programming languages for computational/scientific taks: Python, C, Java, R, Bash, Latex.  
 
