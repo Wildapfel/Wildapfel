@@ -2,9 +2,12 @@
     <img src="https://github.com/Wildapfel/portfolio/blob/master/images/dna_alphabet.jpg" width="800" height="150" />
 </div>
 
-# *Hey, I am Max Petzold*
+# *Welcome*
 
-Welcome to my GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I focus on building intelligent systems applied to biological data and research. I am versatile using different programming languages for computational/scientific taks: Python, C, Java, R, Bash, Latex.  
+I am a bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I emphasize reproducibility and scalability in bioinformatics projects.
+
+
+I am versatile using different programming languages for computational/scientific taks: Python, C, Java, R, Bash, Latex.  
 
 
 <details>
