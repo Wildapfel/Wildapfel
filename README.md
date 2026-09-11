@@ -4,7 +4,7 @@
 
 # *Hey, I am Max Petzold*
 
-Welcome to my GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I focus on building intelligent systems applied to biological data and research. I am versatile using different programming languages: Python, C, Java, R, Bash, Latex.  
+Welcome to my GitHub page.  I am a professional bioinformatician and programmer with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. I focus on building intelligent systems applied to biological data and research. I am versatile using different programming languages for computational/scientific taks: Python, C, Java, R, Bash, Latex.  
 
 
 <details>
