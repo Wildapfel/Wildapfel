@@ -29,7 +29,10 @@ I am open for collaboration and freelance work.
 <details>
 <summary>Projects</summary>
     
-- EUS (coming soon)
+#### EUS 
+- ML for the prediction of phosphate from field sensory data (agriculutre)
+- Student assistant job at MLU Halle 
+- coming soon
 </details>
 
 <details>
