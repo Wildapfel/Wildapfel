@@ -13,6 +13,7 @@ I am open for collaboration and freelance work.
 
 #### [*Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*](https://github.com/Wildapfel/compression-transcriptomes) 
 - An intuitive idea to detect structural repeats across evolution of eukaryotic transcriptomes
+- Publication is currently pending
 </details>
 
 <details>
