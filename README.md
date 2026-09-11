@@ -30,7 +30,7 @@ I am open for collaboration and freelance work.
 <summary>Projects</summary>
     
 #### EUS 
-- ML for the prediction of phosphate from field sensory data (agriculuture)
+- ML for the prediction of phosphate from field sensory data (agriculture)
 - Student assistant job at MLU Halle 
 - coming soon
 </details>
@@ -52,7 +52,7 @@ I am open for collaboration and freelance work.
 <details>
 <summary>Fund me</summary>
     
-- Since I am not financially backed up by institutes and I am doing independent research, I kindly ask for your support
+- Since I am also doing independent research, I kindly ask for your support
 - [paypal.me/petzoldbioinfo](https://paypal.me/petzoldbioinfo)
 </details>
 
