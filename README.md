@@ -35,12 +35,6 @@ I am available for collaboration, consulting and freelance work.
 </details>
 
 <details>
-<summary>Curriculum Vitae</summary>
-
-- coming soon
-</details>
-
-<details>
 <summary>Contact me</summary>
 
 - petzold.bioinfo@gmail.com
