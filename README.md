@@ -28,8 +28,8 @@ I am available for collaboration, consulting and freelance work.
 <details>
 <summary>Projects</summary>
     
-- [*BonaRes*](https://github.com/Wildapfel/precision-farming-portfolio)
-    - applied ML/ data science for the prediction of mineral levels from site sensor data (NIR, EC, Gamma, pH)
+- [*Precision Farming*](https://github.com/Wildapfel/precision-farming-portfolio)
+    - applied ML/ data science for the prediction of mineral levels from site sensor data (NIR, EC, Gamma, pH) in the BonaRes project
     - Student assistant job at MLU Halle 
 
 </details>
