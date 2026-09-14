@@ -11,14 +11,14 @@ I am available for collaboration, consulting and freelance work.
  
 <details>
   <summary>Portfolio</summary>
-  <!-- <ul> -->
-    <li>
+  <ul>
+    <!-- <li> -->
       <details>
         <summary>Theses</summary>
         <p>Child Holder Text</p>
       </details>
-    </li>
-  <!-- </ul> -->
+    <!-- </li> -->
+  </ul>
 
 </details>
 <!-- <details>
