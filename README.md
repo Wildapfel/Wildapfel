@@ -9,10 +9,10 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 I am available for collaboration, consulting and freelance work.
 
 <details>
-   dt>Coffee</dt>
-  <dd>- black hot drink</dd>
+   <dt>Coffee</dt>
+      <dd>- black hot drink</dd>
   <dt>Milk</dt>
-  <dd>- white cold drink</dd>
+      <dd>- white cold drink</dd>
     <!-- <summary>Publications</summary>
     <ul>
         <ul>
