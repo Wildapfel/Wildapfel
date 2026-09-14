@@ -14,12 +14,29 @@
     </ul>
     <ul>
         <details>
+            <summary>Theses</summary>
+            <ul>
+                <li><a href="https://github.com/Wildapfel/master-thesis-portfolio-summary"><em>Methods for interpreting neuronal nets in sequence data analysis</em></a></li>
+                <ul>
+                    <li> <em>Master's thesis</em></li>
+                    <li> <em>Illustrative purpose only</em></li>
+                </ul>
+                <li><a href="LINK"><em>Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes, Macrostomorpha)</em></a></li>
+                <ul>
+                    <li><em>Bachelor's thesis</em></li>
+                    <li><em>Illustrative purpose only</em></li>
+                </ul>
+            </ul>
+        </details>  
+    </ul>
+    <ul>
+        <details>
             <summary>Projects</summary>
             <ul>
-                <li><a href="https://github.com/Wildapfel/precision-farming-portfolio">Precision Farming</a></li>
+                <li><a href="https://github.com/Wildapfel/master-thesis-portfolio-summary"><em>Methods for interpreting neuronal nets in sequence data analysis</em></a></li>
                 <ul>
-                    <li> <em>applied ML/ data science for the prediction of mineral levels from site sensor data (NIR, EC, Gamma, pH) in the BonaRes project</em></li>
-                    <li> <em>Student assistant job at MLU Halle </em></li>
+                    <li> <em>Master's thesis</em></li>
+                    <li> <em>Illustrative purpose only</em></li>
                 </ul>
             </ul>
         </details>  
