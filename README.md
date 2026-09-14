@@ -11,6 +11,7 @@ I am available for collaboration, consulting and freelance work.
 
 <details>
     <summary>Portfolio</summary>
+    <br>
     <ul>
         <details>
         <summary>Publications</summary>
@@ -50,19 +51,5 @@ I am available for collaboration, consulting and freelance work.
                 </ul>
             </ul>
         </details>  
-    </ul>
-</details>
-
-<details>
-    <summary>Support Me</summary>
-    <ul>
-        <li>If you'd like to support my independent research, you can do so here: <a href="https://paypal.me/petzoldbioinfo"><em>paypal.me/petzoldbioinfo</em></a></li> 
-    </ul>
-</details>
-
-<details>
-    <summary>Contact Me</summary>
-    <ul>
-        <li>petzold.bioinfo@gmail.com</li> 
     </ul>
 </details>
