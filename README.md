@@ -31,6 +31,9 @@ I am available for collaboration, consulting and freelance work.
               <li>
                   <em>Bachelor's thesis</em>
               </li>
+              <li>
+                  <em>Illustrative purpose only</em>
+              </li>
           </ul>
       </li>
     </ul>
