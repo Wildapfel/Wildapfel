@@ -5,7 +5,7 @@
         <details>
         <summary>Publications</summary>
         <ul>
-            <li>tesst</li>
+            <li><a href="https://github.com/Wildapfel/compression-transcriptomes"><em>Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes</em></a></li>
         </ul>
     </details>  
     </ul>
