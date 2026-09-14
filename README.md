@@ -8,8 +8,23 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 
 I am available for collaboration, consulting and freelance work.
 
- 
-<details>
+
+
+ <details>
+  <summary>Portfolio</summary>
+
+  <blockquote>
+    <details>
+      <summary>Theses</summary>
+
+[*Methods for interpreting neuronal nets in sequence data analysis*](https://github.com/Wildapfel/master-thesis-portfolio-summary)
+— *Master's thesis*
+
+    </details>
+  </blockquote>
+
+</details>
+<!-- <details>
   <summary>Portfolio</summary>
   <ul>
       <details>
@@ -21,7 +36,7 @@ I am available for collaboration, consulting and freelance work.
       </details>
   </ul>
 
-</details>
+</details> -->
 <!-- <details>
     <summary>Portfolio</summary>
     <p>&emsp;LeftRight</p>
