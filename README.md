@@ -9,7 +9,7 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 I am available for collaboration, consulting and freelance work.
 
 <details>
-    <summary>Parent</summary>
+    <summary>Portfolio</summary>
     <p>&emsp;LeftRight</p>
     <details>
         <summary>Child</summary>
