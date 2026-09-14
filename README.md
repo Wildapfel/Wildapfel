@@ -8,19 +8,8 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 
 I am available for collaboration, consulting and freelance work.
 
+ 
 <details>
-  <summary>Portfolio</summary>
-
-  <ul>
-    <li>
-      <details>
-        <summary>Theses</summary>
-        <p>Child Holder Text</p>
-      </details>
-    </li>
-  </ul>
-
-</details><details>
   <summary>Portfolio</summary>
 
   <ul>
