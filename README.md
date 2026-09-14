@@ -11,8 +11,8 @@ I am available for collaboration, consulting and freelance work.
 <details>
     <summary>Portfolio</summary>
     <p>&emsp;LeftRight</p>
-    <details>
-        <summary>&emsp;Theses</summary>
+    &emsp;<details>
+        <summary>Theses</summary>
         <p>Child Holder Text</p>
     </details>
 </details>
