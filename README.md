@@ -8,43 +8,15 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 
 I am available for collaboration, consulting and freelance work.
 
-
-
- <details>
+<details>
   <summary>Portfolio</summary>
-
-  <blockquote>
-    <!-- <details> -->
-      <summary>Theses</summary>
-        
-[*Methods for interpreting neuronal nets in sequence data analysis*](https://github.com/Wildapfel/master-thesis-portfolio-summary)
-— *Master's thesis*
-
-  </blockquote>
-
+  <details>
+    <summary>Theses</summary>
+    <ul>
+      <li><a href="https://github.com/Wildapfel/master-thesis-portfolio-summary"><em>Methods for interpreting neuronal nets in sequence data analysis</em></a> — <em>Master's thesis</em></li>
+    </ul>
+  </details>
 </details>
-<!-- <details>
-  <summary>Portfolio</summary>
-  <ul>
-      <details>
-        <summary>Theses</summary>
-          
-&ensp;&ensp;&ensp;&ensp;[*Methods for interpreting neuronal nets in sequence data analysis*](https://github.com/Wildapfel/master-thesis-portfolio-summary) <br>
-
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;- *Master's thesis*      
-      </details>
-  </ul>
-
-</details> -->
-<!-- <details>
-    <summary>Portfolio</summary>
-    <p>&emsp;LeftRight</p>
-    &emsp;<details>
-        <summary>Theses</summary>
-        <p>Child Holder Text</p>
-    </details>
-</details> -->
-
 
 <details>
 <summary>Publications</summary>
