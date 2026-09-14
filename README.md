@@ -10,9 +10,10 @@ I am available for collaboration, consulting and freelance work.
 
 <details>
     <summary>Publications</summary>
-    <ul><ul>
+    <em>Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes</em> (not public yet)
+    <!-- <ul><ul>
         <li>
-            <em>Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes</em> (not public yet)
+            
         </li>
         <ul>
             <li>
@@ -20,7 +21,7 @@ I am available for collaboration, consulting and freelance work.
             </li>
         </ul>
         </ul>
-    </ul>
+    </ul> -->
 </details>
 
 
