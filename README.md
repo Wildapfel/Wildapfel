@@ -9,11 +9,11 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 I am available for collaboration, consulting and freelance work.
 
 <details>
-  <summary>Parent</summary>
-  <p>Parent Holder Text</p>
+    <summary>Parent</summary>
+    <p>Parent Holder Text</p>
     <details>
-      <summary>Child<summary>
-      <p>Child Holder Text</p>
+        <summary>Child<summary>
+        <p>Child Holder Text</p>
     </details>
 </details>
 
