@@ -11,7 +11,6 @@ I am available for collaboration, consulting and freelance work.
 
 <details>
     <summary>Portfolio</summary>
-    <br>
     <ul>
         <details>
         <summary>Publications</summary>
