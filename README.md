@@ -1,5 +1,6 @@
 <details>
     <summary>Portfolio</summary>
+    
     <ul>
         <details>
         <summary>Publications</summary>
@@ -9,16 +10,22 @@
     </details>  
     </ul>
    
-    <details>
+    <ul>
+        <details>
+            <summary>Publications</summary>
+            <ul>
+                <li>tesst</li>
+            </ul>
+        </details>  
+    </ul>
+    
+    <ul>
+        <details>
         <summary>Publications</summary>
         <ul>
             <li>tesst</li>
         </ul>
     </details>  
-    <details>
-        <summary>Publications</summary>
-        <ul>
-            <li>tesst</li>
-        </ul>
-    </details>  
+    </ul>
+    
 </details>
