@@ -47,7 +47,8 @@ I am available for collaboration, consulting and freelance work.
     </ul>
   </details>
   </ul>
-  
+
+  <details></details>
   <summary>Projects</summary>
   <ul>
   <details>
@@ -55,6 +56,7 @@ I am available for collaboration, consulting and freelance work.
     <ul>
         <li>tesst</li>
     </ul>
+  </details>
   </details>  
 </details>
 
