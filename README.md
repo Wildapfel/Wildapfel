@@ -9,6 +9,17 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 I am available for collaboration, consulting and freelance work.
 
 <details>
+    <summary>Publications</summary>
+    <ul>
+        <li>
+            <em>*Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes* - not public yet</em>
+        </li>
+    </ul>
+</details>
+
+
+
+<details>
   <summary>Portfolio</summary>
   <ul>
   <details>
@@ -41,13 +52,7 @@ I am available for collaboration, consulting and freelance work.
   </ul>
 </details>
 
-<details>
-<summary>Publications</summary>
 
-- *Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes* - not public yet
-    - An idea to detect structural repeats across evolution of eukaryotic transcriptomes using a continuous measure 
-    - Publication is currently pending
-</details>
 
 <details>
 <summary>Theses</summary>
