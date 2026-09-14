@@ -10,6 +10,9 @@ I am available for collaboration, consulting and freelance work.
 
 <details>
     <summary>test</summary>
+    <details>
+        <summary>sub-test</summary>
+    </details>
 </details>
 
 
