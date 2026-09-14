@@ -55,7 +55,6 @@ I am available for collaboration, consulting and freelance work.
          <li>tesst</li>
     </ul>
   </details>
-  </details>  
 </details>
 
 
