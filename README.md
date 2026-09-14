@@ -10,7 +10,7 @@ I am available for collaboration, consulting and freelance work.
 
 <details>
     <summary>Parent</summary>
-    &ensp;&ensp;&ensp;&ensp;<p>Parent Holder Text</p>
+    <p>Parent Holder Text</p>
     <details>
         <summary>Child</summary>
         <p>Child Holder Text</p>
