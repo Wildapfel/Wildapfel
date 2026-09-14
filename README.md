@@ -1,11 +1,14 @@
 <details>
     <summary>Portfolio</summary>
-    <details>
+    <ul>
+        <details>
         <summary>Publications</summary>
         <ul>
             <li>tesst</li>
         </ul>
     </details>  
+    </ul>
+   
     <details>
         <summary>Publications</summary>
         <ul>
