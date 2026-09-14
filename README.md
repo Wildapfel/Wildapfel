@@ -1,6 +1,5 @@
 <details>
     <summary>Portfolio</summary>
-    
     <ul>
         <details>
         <summary>Publications</summary>
@@ -9,7 +8,6 @@
         </ul>
     </details>  
     </ul>
-   
     <ul>
         <details>
             <summary>Publications</summary>
@@ -18,7 +16,6 @@
             </ul>
         </details>  
     </ul>
-    
     <ul>
         <details>
         <summary>Publications</summary>
@@ -27,5 +24,4 @@
         </ul>
     </details>  
     </ul>
-    
 </details>
