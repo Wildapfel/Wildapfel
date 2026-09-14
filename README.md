@@ -12,7 +12,7 @@ I am available for collaboration, consulting and freelance work.
     <summary>Portfolio</summary>
     <p>&emsp;LeftRight</p>
     <details>
-        <summary>Child</summary>
+        <summary>&emsp;Theses</summary>
         <p>Child Holder Text</p>
     </details>
 </details>
