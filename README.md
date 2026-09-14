@@ -63,7 +63,7 @@ I am available for collaboration, consulting and freelance work.
 
 <details>
     <summary>Contact Me</summary>
-    <br style="line-height: 0.7cm;">
+    <br style="line-height: 0.3cm;">
     <ul>
         <li>petzold.bioinfo@gmail.com</li> 
     </ul>
