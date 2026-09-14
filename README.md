@@ -11,12 +11,8 @@ I am available for collaboration, consulting and freelance work.
 <details>
     <summary>Publications</summary>
     <ul>
-        <ul>
-            <li>
-                asdfasda
-            </li>
-        </ul>
-    </ul> -->
+        <li> asdfasda </li>
+    </ul>
     <!-- <ul><ul>
         <li>
             
