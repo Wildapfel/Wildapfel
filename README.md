@@ -18,15 +18,11 @@
                     <li> <em>Master's thesis</em></li>
                     <li> <em>Illustrative purpose only</em></li>
                 </ul>
-                <!-- <li><a href="LINK"><em>Bachelor's thesis title</em></a> 
+                <li><a href="LINK"><em>Bachelor's thesis title</em></a></li>
                 <ul>
-                    <li>
-                        <em>Bachelor's thesis</em>
-                    </li>
-                    <li>
-                        <em>Illustrative purpose only</em>
-                    </li>
-                </ul> -->
+                    <li><em>Bachelor's thesis</em></li>
+                    <li><em>Illustrative purpose only</em></li>
+                </ul>
             </ul>
         </details>  
     </ul>
