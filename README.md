@@ -9,7 +9,6 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 I am available for collaboration, consulting and freelance work.
 
 <!-- <details>
-    <summary>Publications</summary>
     <ul>
         <li> asdfasda </li>
     </ul>
@@ -31,6 +30,12 @@ I am available for collaboration, consulting and freelance work.
 <details>
   <summary>Portfolio</summary>
   <ul>
+  <details>
+    <summary>Publications</summary>
+    <ul>
+        <li>tesst</li>
+    </ul>
+  </details>  
   <details>
     <summary>Theses</summary>
     <ul>
