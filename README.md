@@ -19,9 +19,9 @@ I am available for collaboration, consulting and freelance work.
           <ul>
               <li><em>Master's thesis</em></li></li>
           </ul>
-      <ul>
-          <li><a href="LINK"><em>Bachelor's thesis title</em></a> — <em>Bachelor's thesis</em></li>
-      </ul>
+      <li>
+          <a href="LINK"><em>Bachelor's thesis title</em></a> — <em>Bachelor's thesis</em>
+      </li>
     </ul>
   </details>
   </ul>
