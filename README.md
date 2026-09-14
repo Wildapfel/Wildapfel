@@ -26,7 +26,7 @@ I am available for collaboration, consulting and freelance work.
 
 <details>
   <summary>Portfolio</summary>
-  <ul>
+  <!-- <ul> -->
   <details>
     <summary>Theses</summary>
     <ul>
@@ -54,7 +54,7 @@ I am available for collaboration, consulting and freelance work.
       </li>
     </ul>
   </details>
-  </ul>
+  <!-- </ul> -->
 </details>
 
 
