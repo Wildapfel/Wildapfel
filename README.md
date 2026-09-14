@@ -13,7 +13,6 @@ I am available for collaboration, consulting and freelance work.
     <summary>Portfolio</summary>
     <ul>
         <details>
-            
         <summary>Publications</summary>
         <ul>
             <li><a href="https://github.com/Wildapfel/compression-transcriptomes"><em>Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes</em> (not public yet)</a></li>
