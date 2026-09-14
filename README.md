@@ -20,6 +20,9 @@ I am available for collaboration, consulting and freelance work.
               <li>
                   <em>Master's thesis</em>
               </li>
+              <li>
+                  <em>Illustrative purpose, no code, no data</em>
+              </li>
           </ul>
       </li>
       <li>
