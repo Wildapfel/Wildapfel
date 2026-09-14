@@ -7,7 +7,7 @@
         <ul>
             <li><a href="https://github.com/Wildapfel/compression-transcriptomes"><em>Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes</em> (not public yet)</a></li>
             <ul>
-                <li>Preprint peending</li>
+                <li>Preprint pending</li>
             </ul>
         </ul>
     </details>  
