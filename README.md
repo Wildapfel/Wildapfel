@@ -1,6 +1,5 @@
 <details>
     <summary>Portfolio</summary>
-    <ul>
     <details>
         <summary>Publications</summary>
         <ul>
