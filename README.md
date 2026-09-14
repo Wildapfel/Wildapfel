@@ -10,12 +10,17 @@ I am available for collaboration, consulting and freelance work.
 
 <details>
   <summary>Portfolio</summary>
-  <details>
-    <summary>Theses</summary>
-    <ul>
-      <a href="https://github.com/Wildapfel/master-thesis-portfolio-summary"><em>Methods for interpreting neuronal nets in sequence data analysis</em></a> — <em>Master's thesis</em>
-    </ul>
-  </details>
+  <ul>
+    <li>
+      <details>
+        <summary>Theses</summary>
+        <ul>
+          <li><a href="https://github.com/Wildapfel/master-thesis-portfolio-summary"><em>Methods for interpreting neuronal nets in sequence data analysis</em></a> — <em>Master's thesis</em></li>
+          <li><a href="LINK"><em>Bachelor's thesis title</em></a> — <em>Bachelor's thesis</em></li>
+        </ul>
+      </details>
+    </li>
+  </ul>
 </details>
 
 <details>
