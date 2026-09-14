@@ -9,13 +9,7 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 I am available for collaboration, consulting and freelance work.
 
 <details>
- <dl>
-  <dt>Coffee</dt>
-  <dd>- black hot drink</dd>
-  <dt>Milk</dt>
-  <dd>- white cold drink</dd>
-</dl>
-    <!-- <summary>Publications</summary>
+    <summary>Publications</summary>
     <ul>
         <ul>
             <li>
@@ -33,7 +27,7 @@ I am available for collaboration, consulting and freelance work.
             </li>
         </ul>
         </ul>
-    </ul> -->
+    </ul>
 </details>
 
 
