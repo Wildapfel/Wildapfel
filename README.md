@@ -44,7 +44,7 @@ I am available for collaboration, consulting and freelance work.
         <details>
             <summary>Projects</summary>
             <ul>
-                <li><a href="https://github.com/Wildapfel/precision-farming-portfolio"><em>Precision Farming</em></a></li>
+                <li><a href="https://github.com/Wildapfel/portfolio-precision-farming"><em>Precision Farming</em></a></li>
                 <ul>
                     <li> Applied ML/ data science for the prediction of mineral levels from site sensor data (NIR, EC, Gamma, pH) in the BonaRes project</li>
                     <li> Student assistant job at MLU Halle </li>
