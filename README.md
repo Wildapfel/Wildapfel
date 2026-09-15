@@ -52,4 +52,12 @@ I am available for collaboration, consulting and freelance work.
             </ul>
         </details>  
     </ul>
+    <ul>
+        <details>
+            <summary>Proof-Of-Skill</summary>
+            <ul>
+                <li>Showcase selected personal project, emphasizing my skills</li>
+            </ul>
+        </details>  
+    </ul>
 </details>
