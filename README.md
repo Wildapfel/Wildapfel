@@ -32,7 +32,7 @@ I am available for collaboration, consulting and freelance work.
                     <li> <em>Master's thesis</em></li>
                     <li> <em>Illustrative purpose only</em></li>
                 </ul>
-                <li><a href="LINK"><em>Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes, Macrostomorpha)</em></a></li>
+                <li><a href="https://github.com/Wildapfel/portfolio-bachelor-thesis"><em>Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes, Macrostomorpha)</em></a></li>
                 <ul>
                     <li><em>Bachelor's thesis</em></li>
                     <li><em>Illustrative purpose only</em></li>
