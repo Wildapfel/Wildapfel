@@ -7,14 +7,18 @@
 I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology and a Master's in Bioinformatics. In my projects, I emphasize reproducibility and scalability. To that end, I work across a broad range of programming languages for computational/scientific tasks: **Python • C • Java • R • Bash • LaTeX**.
 
 I am available for collaboration, consulting and freelance work.
+<details>
+    <summary>Publications</summary>
+    #### Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes
+    - Preprint pending
+    - [Repository](https://github.com/Wildapfel/compression-transcriptomes)
+</details>
 
-#### Publications
 
 <details>
-  <summary>Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes</summary>
+  <summary></summary>
 
-  - Preprint pending
-  - [Repository](https://github.com/Wildapfel/compression-transcriptomes)
+
 </details>
 
 <br>
