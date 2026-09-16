@@ -15,7 +15,7 @@ I am available for collaboration, consulting and freelance work.
 - [repository](https://github.com/Wildapfel/compression-transcriptomes)
 
 </details>
-
+<br>
 <details>
     <summary>Portfolio</summaryY>
 </details>
