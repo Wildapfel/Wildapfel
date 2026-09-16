@@ -10,6 +10,7 @@ I am available for collaboration, consulting and freelance work.
 
 <br>
 
+##### Official
 <details>
 <summary>Publications</summary>
 
@@ -42,8 +43,9 @@ I am available for collaboration, consulting and freelance work.
 
 </details>
 
+<br>
 
-#### Hands-On
+#### Hands-On/ Practice
 <details>
 <summary>Omics</summary>
 
