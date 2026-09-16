@@ -5,6 +5,8 @@
   - lets inspect formatting
 </details>
 
+<br>
+
 <details>
   <summary>Tips for collapsed sections</summary>
 
