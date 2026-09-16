@@ -8,20 +8,10 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 
 I am available for collaboration, consulting and freelance work.
 
-<details>
-    <summary><strong>Publications</strong></summary>
-    <br>
-    <ul>
-        <li>
-            <a href="https://github.com/Wildapfel/compression-transcriptomes">
+**Publications**
+ <a href="https://github.com/Wildapfel/compression-transcriptomes">
                 <em>Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes</em>
             </a>
-            <ul>
-                <li>Preprint pending</li>
-            </ul>
-        </li>
-    </ul>
-</details>
 
 <details>
     <summary><strong>Portfolio</strong></summary>
