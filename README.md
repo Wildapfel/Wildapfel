@@ -3,6 +3,7 @@
 
   ##### Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes
   - repository
+  - DOI
 </details>
 
 <br>
