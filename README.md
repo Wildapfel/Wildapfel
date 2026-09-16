@@ -1,9 +1,8 @@
-#### Publications
 <details>
-  <summary>Tips for collapsed sections</summary>
+  <summary>Publications</summary>
 
-  ### hello world
-  - lets inspect formatting
+  ##### Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes
+  - repository
 </details>
 
 <br>
