@@ -8,7 +8,7 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 
 I am available for collaboration, consulting and freelance work.
 
-##### Official
+##### *Official*
 <details>
 <summary>Publications</summary>
 
