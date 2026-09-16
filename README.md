@@ -23,17 +23,6 @@ I am available for collaboration, consulting and freelance work.
     <br>
     <ul>
         <details>
-        <summary>Publications</summary>
-        <ul>
-            <li><a href="https://github.com/Wildapfel/compression-transcriptomes"><em>Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes</em> (not public yet)</a></li>
-            <ul>
-                <li>Preprint pending</li>
-            </ul>
-        </ul>
-    </details>
-    </ul>
-    <ul>
-        <details>
             <summary>Theses</summary>
             <ul>
                 <li><a href="https://github.com/Wildapfel/portfolio-master-thesis"><em>Methods for interpreting neuronal nets in sequence data analysis</em></a></li>
