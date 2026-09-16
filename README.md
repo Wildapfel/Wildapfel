@@ -1,1 +1,3 @@
-<details>hello</details>
+<details>
+  <summary>hello</summary>
+</details>
