@@ -26,7 +26,7 @@ I am available for collaboration, consulting and freelance work.
 - *Master's thesis*
 - [summary](https://github.com/Wildapfel/portfolio-master-thesis)
 
-#### &nbsp;&nbsp;&nbsp; *Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes, Macrostomorpha)*
+#### &nbsp;&nbsp;&nbsp; *Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano*
 - *Bachelor's thesis*
 - [summary](https://github.com/Wildapfel/portfolio-bachelor-thesis)
 
