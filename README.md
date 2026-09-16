@@ -1,3 +1,4 @@
+#### Publications
 <details>
   <summary>Tips for collapsed sections</summary>
 
@@ -7,6 +8,7 @@
 
 <br>
 
+#### Portfolio
 <details>
   <summary>Tips for collapsed sections</summary>
 
