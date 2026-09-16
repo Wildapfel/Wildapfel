@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Wildapfel/portfolio/blob/master/images/dna_alphabet.jpg" width="800" height="150" />
+    <img src="https://github.com/Wildapfel/portfolio/blob/master/images/dna_alphabet.jpg" width="1200" height="150" />
 </div>
 
 # *Hello World*
