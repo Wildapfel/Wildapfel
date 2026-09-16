@@ -54,7 +54,7 @@ I am available for collaboration, consulting and freelance work.
     </ul>
     <ul>
         <details>
-            <summary>Proof-Of-Skills</summary>
+            <summary>Demos</summary>
             <ul>
                 <li>Showcase selected personal project, emphasizing my skills</li>
             </ul>
