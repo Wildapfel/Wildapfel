@@ -16,11 +16,9 @@ I am available for collaboration, consulting and freelance work.
 
 </details>
 
-
-
-<br>
-
-#### Portfolio
+<details>
+    <summary>Portfolio</summaryY>
+</details>
 
 <details>
   <summary>Theses</summary>
