@@ -47,8 +47,8 @@ I am available for collaboration, consulting and freelance work.
 <summary>Omics</summary>
 
 #### &nbsp;&nbsp;&nbsp; *Pangenome Chr21 of Homo sapiens*
-- [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21)
 - *minigraph* • *Bandage* • *Snakemake* • *Docker*
+- [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21)
   
 #### &nbsp;&nbsp;&nbsp; *Functional analysis of ABF2/ABF3 transcriptional targets*
 - Kallisto • DESeq2 • clusterProfiler
