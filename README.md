@@ -10,7 +10,7 @@ I am available for collaboration, consulting and freelance work.
 
 <details>
 <summary>Publications</summary>
-    
+
 #### *Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*
 - Preprint pending
 - [repository](https://github.com/Wildapfel/compression-transcriptomes)
@@ -18,44 +18,31 @@ I am available for collaboration, consulting and freelance work.
 </details>
 
 <details>
-    <summary>Portfolio</summary>
-    <br>
-    <ul>
-        <details>
-            <summary>Theses</summary>
-            <ul>
-                <li><a href="https://github.com/Wildapfel/portfolio-master-thesis"><em>Methods for interpreting neuronal nets in sequence data analysis</em></a></li>
-                <ul>
-                    <li> <em>Master's thesis</em></li>
-                    <li> <em>Illustrative purpose only</em></li>
-                </ul>
-                <li><a href="https://github.com/Wildapfel/portfolio-bachelor-thesis"><em>Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes, Macrostomorpha)</em></a></li>
-                <ul>
-                    <li><em>Bachelor's thesis</em></li>
-                    <li><em>Illustrative purpose only</em></li>
-                </ul>
-            </ul>
-        </details>
-    </ul>
-    <ul>
-        <details>
-            <summary>Projects</summary>
-            <ul>
-                <li><a href="https://github.com/Wildapfel/portfolio-precision-farming"><em>Precision Farming</em></a></li>
-                <ul>
-                    <li> Applied ML/ data science for the prediction of mineral levels from site sensor data (NIR, EC, Gamma, pH) in the BonaRes project</li>
-                    <li> Student assistant job at MLU Halle </li>
-                </ul>
-            </ul>
-        </details>
-    </ul>
-    <ul>
-        <details>
-            <summary>Demos</summary>
-            <ul>
-                <li>Showcase selected personal project, emphasizing my skills</li>
-            </ul>
-        </details>
-    </ul>
+<summary>Theses</summary>
+
+#### *Methods for interpreting neuronal nets in sequence data analysis*
+- *Master's thesis*
+- [summary](https://github.com/Wildapfel/portfolio-master-thesis)
+
+#### *Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes, Macrostomorpha)*
+- *Bachelor's thesis*
+- [summary](https://github.com/Wildapfel/portfolio-bachelor-thesis)
+
 </details>
 
+<details>
+<summary>Projects</summary>
+
+#### *Precision Farming*
+- Applied ML / data science for the prediction of mineral levels from site sensor data (NIR, EC, Gamma, pH) in the BonaRes project
+- Student assistant job at MLU Halle
+- [summary](https://github.com/Wildapfel/portfolio-precision-farming)
+
+</details>
+
+<details>
+<summary>Demos</summary>
+
+- Showcase selected personal projects, emphasizing my skills
+
+</details>
