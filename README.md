@@ -13,7 +13,7 @@ I am available for collaboration, consulting and freelance work.
 <details>
 <summary>Publications</summary>
 
-#### &nbsp;&nbsp; *Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*
+#### &nbsp;&nbsp;&nbsp; *Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes*
 - Preprint pending
 - [repository](https://github.com/Wildapfel/compression-transcriptomes)
 
@@ -22,11 +22,11 @@ I am available for collaboration, consulting and freelance work.
 <details>
 <summary>Theses</summary>
 
-#### &nbsp;&nbsp; *Methods for interpreting neuronal networks in sequence data analysis*
+#### &nbsp;&nbsp;&nbsp; *Methods for interpreting neuronal networks in sequence data analysis*
 - *Master's thesis*
 - [summary](https://github.com/Wildapfel/portfolio-master-thesis)
 
-#### *Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes, Macrostomorpha)*
+#### &nbsp;&nbsp;&nbsp; *Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes, Macrostomorpha)*
 - *Bachelor's thesis*
 - [summary](https://github.com/Wildapfel/portfolio-bachelor-thesis)
 
@@ -35,7 +35,7 @@ I am available for collaboration, consulting and freelance work.
 <details>
 <summary>Projects</summary>
 
-#### *Precision Farming*
+#### &nbsp;&nbsp;&nbsp; *Precision Farming*
 - Applied ML / data science for the prediction of mineral levels from site sensor data (NIR, EC, Gamma, pH) in the BonaRes project
 - Student assistant job at MLU Halle
 - [summary](https://github.com/Wildapfel/portfolio-precision-farming)
