@@ -41,7 +41,6 @@ I am available for collaboration, consulting and freelance work.
 
 </details>
 
-<br>
 
 #### Hands-On/ Practice
 <details>
