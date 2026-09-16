@@ -48,3 +48,5 @@ I am available for collaboration, consulting and freelance work.
 - Showcase selected personal projects, emphasizing my skills
 
 </details>
+
+<br>
