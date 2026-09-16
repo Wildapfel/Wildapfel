@@ -22,7 +22,7 @@ I am available for collaboration, consulting and freelance work.
 <details>
 <summary>Theses</summary>
 
-#### &nbsp;&nbsp; *Methods for interpreting neuronal nets in sequence data analysis*
+#### &nbsp;&nbsp; *Methods for interpreting neuronal networks in sequence data analysis*
 - *Master's thesis*
 - [summary](https://github.com/Wildapfel/portfolio-master-thesis)
 
