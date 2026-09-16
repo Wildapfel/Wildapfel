@@ -42,7 +42,7 @@ I am available for collaboration, consulting and freelance work.
 </details>
 
 
-##### Hands-On
+##### *Hands-On*
 <details>
 <summary>Omics</summary>
 
