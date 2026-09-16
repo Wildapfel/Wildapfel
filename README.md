@@ -42,8 +42,8 @@ I am available for collaboration, consulting and freelance work.
 
 </details>
 
-<details>
-<summary>Hands-on </summary>
+
+#### Handson
 <details>
 <summary>Omics</summary>
 
@@ -53,8 +53,6 @@ I am available for collaboration, consulting and freelance work.
 #### &nbsp;&nbsp;&nbsp; *Functional analysis of ABF2/ABF3 transcriptional targets*
 - Kallisto • DESeq2 • clusterProfiler
 - Snakemake • Conda • Docker • R • Python • LaTeX
-</details>
-</details>
 </details>
 
 <br>
