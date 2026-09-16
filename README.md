@@ -43,20 +43,14 @@ I am available for collaboration, consulting and freelance work.
 </details>
 
 <details>
-<summary>Demos</summary>
+<summary>Hands-on Omics</summary>
 
-#### &nbsp;&nbsp;&nbsp; *Omics*
-- Pangenome Chr21 of Homo sapiens (minigraph, Bandage, Snakemake, Docker)
-- ABF2/ABF3 transcriptional targets (Kallisto, DESeq2, clusterProfiler)
+#### &nbsp;&nbsp;&nbsp; *Pangenome Chr21 of Homo sapiens*
+- minigraph • Bandage • Snakemake • Docker
 
-#### &nbsp;&nbsp;&nbsp; *Population Genetics*
-- QTL identification for marker-assisted selection in barley using GAPIT (GWAS)
-
-#### &nbsp;&nbsp;&nbsp; *Modelling*
-- Root-to-shoot mass modelling in barley seedlings (distribution fitting, statistical testing)
-
-#### &nbsp;&nbsp;&nbsp; *ML in Bioinformatics*
-- ML on public cross-experimental microarray blood samples for CLL diagnosis
+#### &nbsp;&nbsp;&nbsp; *Functional analysis of ABF2/ABF3 transcriptional targets*
+- Kallisto • DESeq2 • clusterProfiler
+- Snakemake • Conda • Docker • R • Python • LaTeX
 
 </details>
 
