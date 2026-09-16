@@ -22,11 +22,11 @@ I am available for collaboration, consulting and freelance work.
 <details>
 <summary>Theses</summary>
 
-#### &nbsp;&nbsp;&nbsp; *Methods for interpreting neuronal networks in sequence data analysis*
+#### &nbsp;&nbsp;&nbsp; *Methods for Interpreting Neronal Networks in Sequence Data Analysis*
 - *Master's thesis*
 - [summary](https://github.com/Wildapfel/portfolio-master-thesis)
 
-#### &nbsp;&nbsp;&nbsp; *Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano*
+#### &nbsp;&nbsp;&nbsp; *Quantitative Image-Analysis of Blastomeres in the Early Embryonic Development of Macrostomum Lignano*
 - *Bachelor's thesis*
 - [summary](https://github.com/Wildapfel/portfolio-bachelor-thesis)
 
