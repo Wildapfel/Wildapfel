@@ -55,7 +55,7 @@ I am available for collaboration, consulting and freelance work.
 </details>
 
 <details>
-<summary>Omics</summary>
+<summary>Transcriptomics</summary>
 
 #### &nbsp;&nbsp;&nbsp; *Pangenome Chr21 of Homo sapiens*
 - repository
@@ -66,7 +66,7 @@ I am available for collaboration, consulting and freelance work.
 </details>
 
 <details>
-<summary>Omics</summary>
+<summary>Modelling</summary>
 
 #### &nbsp;&nbsp;&nbsp; *Pangenome Chr21 of Homo sapiens*
 - repository
