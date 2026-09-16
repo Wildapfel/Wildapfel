@@ -9,6 +9,15 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 I am available for collaboration, consulting and freelance work.
 
 <details>
+    <summary><strong>Portfolio</strong></summary>
+    <br>
+    <ul>
+        <details>
+            <summary>Theses</summary>
+        </details>
+    </ul>
+</details>
+<!-- <details>
     <summary>Publications</summary>
     <br>
     <ul>
@@ -16,7 +25,7 @@ I am available for collaboration, consulting and freelance work.
             <summary>Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes(not public yet)</summary>
         </detail>
     </ul>
-</details>
+</details> -->
     
 <details>
     <summary><strong>Portfolio</strong></summary>
