@@ -43,14 +43,11 @@ I am available for collaboration, consulting and freelance work.
 </details>
 
 <details>
-<summary>Hands-on Omics</summary>
+<summary>Hands-on </summary>
 
-#### &nbsp;&nbsp;&nbsp; *Pangenome Chr21 of Homo sapiens*
+#### &nbsp;&nbsp;&nbsp; Omics
+- *Pangenome Chr21 of Homo sapiens*
 - minigraph • Bandage • Snakemake • Docker
-
-#### &nbsp;&nbsp;&nbsp; *Functional analysis of ABF2/ABF3 transcriptional targets*
-- Kallisto • DESeq2 • clusterProfiler
-- Snakemake • Conda • Docker • R • Python • LaTeX
 
 </details>
 
