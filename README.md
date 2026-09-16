@@ -8,56 +8,71 @@ I am a bioinformatician with a Bachelor's in Molecular Biology & Biotechnology a
 
 I am available for collaboration, consulting and freelance work.
 
-
 <details>
-    <summary>Portfolio</summary>
+    <summary><strong>Publications</strong></summary>
     <br>
     <ul>
-        <details>
-        <summary>Publications</summary>
-        <ul>
-            <li><a href="https://github.com/Wildapfel/compression-transcriptomes"><em>Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes</em> (not public yet)</a></li>
+        <li>
+            <a href="https://github.com/Wildapfel/compression-transcriptomes">
+                <em>Gzip Compression Rate as Proxy for Structural Redundancy in Transcriptomes</em> (not public yet)
+            </a>
             <ul>
                 <li>Preprint pending</li>
             </ul>
-        </ul>
-    </details>  
+        </li>
     </ul>
+</details>
+
+<details>
+    <summary><strong>Portfolio</strong></summary>
+    <br>
     <ul>
         <details>
             <summary>Theses</summary>
             <ul>
-                <li><a href="https://github.com/Wildapfel/portfolio-master-thesis"><em>Methods for interpreting neuronal nets in sequence data analysis</em></a></li>
-                <ul>
-                    <li> <em>Master's thesis</em></li>
-                    <li> <em>Illustrative purpose only</em></li>
-                </ul>
-                <li><a href="https://github.com/Wildapfel/portfolio-bachelor-thesis"><em>Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes, Macrostomorpha)</em></a></li>
-                <ul>
-                    <li><em>Bachelor's thesis</em></li>
-                    <li><em>Illustrative purpose only</em></li>
-                </ul>
+                <li>
+                    <a href="https://github.com/Wildapfel/portfolio-master-thesis">
+                        <em>Methods for interpreting neuronal nets in sequence data analysis</em>
+                    </a>
+                    <ul>
+                        <li><em>Master's thesis</em></li>
+                        <li><em>Illustrative purpose only</em></li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="https://github.com/Wildapfel/portfolio-bachelor-thesis">
+                        <em>Quantitative Image-Analysis of Blastomeres in the early embryonic development of Macrostomum Lignano (Plathelminthes, Macrostomorpha)</em>
+                    </a>
+                    <ul>
+                        <li><em>Bachelor's thesis</em></li>
+                        <li><em>Illustrative purpose only</em></li>
+                    </ul>
+                </li>
             </ul>
-        </details>  
+        </details>
     </ul>
     <ul>
         <details>
             <summary>Projects</summary>
             <ul>
-                <li><a href="https://github.com/Wildapfel/portfolio-precision-farming"><em>Precision Farming</em></a></li>
-                <ul>
-                    <li> Applied ML/ data science for the prediction of mineral levels from site sensor data (NIR, EC, Gamma, pH) in the BonaRes project</li>
-                    <li> Student assistant job at MLU Halle </li>
-                </ul>
+                <li>
+                    <a href="https://github.com/Wildapfel/portfolio-precision-farming">
+                        <em>Precision Farming</em>
+                    </a>
+                    <ul>
+                        <li>Applied ML / data science for the prediction of mineral levels from site sensor data (NIR, EC, Gamma, pH) in the BonaRes project</li>
+                        <li>Student assistant job at MLU Halle</li>
+                    </ul>
+                </li>
             </ul>
-        </details>  
+        </details>
     </ul>
     <ul>
         <details>
             <summary>Demos</summary>
             <ul>
-                <li>Showcase selected personal project, emphasizing my skills</li>
+                <li>Showcase selected personal projects, emphasizing my skills</li>
             </ul>
-        </details>  
+        </details>
     </ul>
 </details>
