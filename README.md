@@ -53,6 +53,7 @@ I am available for collaboration, consulting and freelance work.
 #### &nbsp;&nbsp;&nbsp; *Functional analysis of ABF2/ABF3 transcriptional targets*
 - *Kallisto* • *DESeq2* • *clusterProfiler* • *Snakemake* • *Conda* • *Docker*
 -  *R* • *Python* • *LaTeX*
+-  [demo-repsository](https://github.com/Wildapfel/end-to-end-rna-seq)
 </details>
 
 <details>
