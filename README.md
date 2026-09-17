@@ -51,8 +51,8 @@ I am available for collaboration, consulting and freelance work.
 - [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21) (under construction)
   
 #### &nbsp;&nbsp;&nbsp; *Functional analysis of ABF2/ABF3 transcriptional targets*
-- Kallisto • DESeq2 • clusterProfiler
-- Snakemake • Conda • Docker • R • Python • LaTeX
+- *Kallisto* • *DESeq2* • *clusterProfiler* • *Snakemake* • *Conda* • *Docker*
+-  *R* • *Python* • *LaTeX*
 </details>
 
 <details>
@@ -62,7 +62,7 @@ I am available for collaboration, consulting and freelance work.
 -  (under construction)
 - minigraph • Bandage • Snakemake • Docker
 #### &nbsp;&nbsp;&nbsp; *Functional analysis of ABF2/ABF3 transcriptional targets*
-- Kallisto • DESeq2 • clusterProfiler
+- *Kallisto* • *DESeq2* • clusterProfiler
 - Snakemake • Conda • Docker • R • Python • LaTeX
 </details>
 
