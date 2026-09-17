@@ -47,7 +47,7 @@ I am available for collaboration, consulting and freelance work.
 <summary>Omics</summary>
 
 #### &nbsp;&nbsp;&nbsp; *Pangenome Chr21 of Homo sapiens*
-- *minigraph* • *Bandage* • *Snakemake* • *Docker*
+- *Python* • *Bash* • *Minigraph* • *Bandage* • *Snakemake* • *Docker*
 - [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21) (under construction)
   
 #### &nbsp;&nbsp;&nbsp; *Functional analysis of ABF2/ABF3 transcriptional targets*
