@@ -51,12 +51,6 @@ I am available for collaboration, consulting and freelance work.
 - *Python* • *Bash*
 - [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21) (under construction)
   
-#### &nbsp;&nbsp;&nbsp; *Functional analysis of ABF2/ABF3 transcriptional targets*
-- *Kallisto* • *DESeq2* • *clusterProfiler* • *Snakemake* • *Conda* • *Docker*
--  *R* • *Python* • *LaTeX*
--  [demo-repsository](https://github.com/Wildapfel/end-to-end-rna-seq)
-</details>
-
 <details>
 <summary>Modelling</summary>
 
