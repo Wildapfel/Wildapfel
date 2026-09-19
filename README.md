@@ -50,6 +50,7 @@ I am available for collaboration, consulting and freelance work.
 - *minigraph* • *Bandage* • *Snakemake* • *Docker*
 - *Python* • *Bash*
 - [demo-repository](https://github.com/Wildapfel/build-pangenome-homo-sapiens-chr21) (under construction)
+</details>
   
 <details>
 <summary>Modelling</summary>
