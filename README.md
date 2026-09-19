@@ -71,7 +71,7 @@ I am available for collaboration, consulting and freelance work.
 <details>
 <summary>Modelling</summary>
 
-#### &nbsp;&nbsp;&nbsp; *Root-To-Shoot-Ratio
+#### &nbsp;&nbsp;&nbsp; Root-To-Shoot-Ratio
 -  [demo-repsository](https://github.com/Wildapfel/modelling-root-to-shoot-ratios)
 
 <br>
