@@ -71,12 +71,7 @@ I am available for collaboration, consulting and freelance work.
 <details>
 <summary>Modelling</summary>
 
-#### &nbsp;&nbsp;&nbsp; *Pangenome Chr21 of Homo sapiens*
-- demo-repository
-- minigraph • Bandage • Snakemake • Docker
-#### &nbsp;&nbsp;&nbsp; *Functional analysis of ABF2/ABF3 transcriptional targets*
-- Kallisto • DESeq2 • clusterProfiler
-- Snakemake • Conda • Docker • R • Python • LaTeX
-</details>
+#### &nbsp;&nbsp;&nbsp; *Root-To-Shoot-Ratio
+-  [demo-repsository](https://github.com/Wildapfel/modelling-root-to-shoot-ratios)
 
 <br>
