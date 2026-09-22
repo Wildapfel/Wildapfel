@@ -60,4 +60,13 @@ I am available for collaboration, consulting and freelance work.
 - [demo-repsository](https://github.com/Wildapfel/modelling-root-to-shoot-ratios)
 </details>
 
+<details>
+<summary>Population Genetics</summary>
+
+#### &nbsp;&nbsp;&nbsp; GWAS: Identifying QTL's for marker assisted selection in barley population using GAPIT
+- *Distribution Fitting* • *Ratio Modeling* • *Statistical Testing*
+- *Python* • *Jupyter Notebooks* • *Pandas* • *Matplotlib* • *Scipy* • *TeX* 
+- [demo-repsository](https://github.com/Wildapfel/modelling-root-to-shoot-ratios)
+</details>
+
 <br>
