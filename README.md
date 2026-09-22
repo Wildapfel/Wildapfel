@@ -66,8 +66,7 @@ I am available for collaboration, consulting and freelance work.
 #### &nbsp;&nbsp;&nbsp; *GWAS: Identifying QTL's for marker assisted selection in barley population*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Association mapping of quantitative phenotype traits in *Hordeum vulgare* using GAPIT. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Methods: 
-- GWAS • FarmCPU • GLM • Manhattan/QQ plots • Linkage Disequilibrium • Significant Markers • Trait Prediction
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Methods:     GWAS • FarmCPU • GLM • Manhattan/QQ plots • Linkage Disequilibrium • Significant Markers • Trait Prediction
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Stack: Python • Scikit-learn • R • GAPIT • Pandas • Jupyter • Conda/Mamba • Docker • TeX
 </details>
