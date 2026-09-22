@@ -56,7 +56,7 @@ I am available for collaboration, consulting and freelance work.
 
 #### &nbsp;&nbsp;&nbsp; *Root-To-Shoot-Ratio*
 - Statistical Modelling of Root-To-Shoot-Ratio in barley populations
-    - *Marginal Distribution Fitting* • *Conjugate Distribution Fitting* • **Statistical Testing* 
+    - *Marginal Distribution Fitting (Gamma)* • *Ratio Distribution Fitting (Beta)* • *Statistical Testing* 
     - *Python* • *Jupyter Notebooks* • *Pandas* • *Matplotlib* • *Scipy* • *TeX* 
 - [demo-repository](https://github.com/Wildapfel/modelling-root-to-shoot-ratios)
 </details>
