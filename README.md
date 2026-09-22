@@ -54,7 +54,7 @@ I am available for collaboration, consulting and freelance work.
 <details>
 <summary>Modelling</summary>
 
-#### &nbsp;&nbsp;&nbsp; Root-To-Shoot-Ratio
+#### &nbsp;&nbsp;&nbsp; *Root-To-Shoot-Ratio*
 - *Distribution Fitting* • *Ratio Modeling* • *Statistical Testing*
 - *Python* • *Jupyter Notebooks* • *Pandas* • *Matplotlib* • *Scipy* • *TeX* 
 - [demo-repository](https://github.com/Wildapfel/modelling-root-to-shoot-ratios)
