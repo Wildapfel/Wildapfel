@@ -64,8 +64,8 @@ I am available for collaboration, consulting and freelance work.
 <summary>Population Genetics</summary>
 
 #### &nbsp;&nbsp;&nbsp; GWAS: Identifying QTL's for marker assisted selection in barley population using GAPIT
-- *Distribution Fitting* • *Ratio Modeling* • *Statistical Testing*
-- *Python* • *Jupyter Notebooks* • *Pandas* • *Matplotlib* • *Scipy* • *TeX* 
+- *Quantitative Phenotype Traits* • *Genotype Data*
+- *Python* • *Conda/Mamba* • R • *TeX* • *Pandas* • *GAPIT*
 - [demo-repsository](https://github.com/Wildapfel/modelling-root-to-shoot-ratios)
 </details>
 
