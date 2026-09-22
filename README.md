@@ -64,11 +64,11 @@ I am available for collaboration, consulting and freelance work.
 <summary>Population Genetics</summary>
 
 #### &nbsp;&nbsp;&nbsp; GWAS: Identifying QTL's for marker assisted selection in barley population
-&nbsp;&nbsp;&nbsp; Association mapping of quantitative traits in *Hordeum vulgare* using GAPIT. 
-- Quantitative Phenotype Traits • Genotype Data • GWAS • FarmCPU • GLM • Manhattan/QQ Plots
-  • Linkage Disequilibrium • Significant Markers • Trait Prediction • Python • Scikit-learn
-  • Conda/Mamba • R • GAPIT • Docker • TeX • Pandas • Jupyter
-- [demo-repsository](https://github.com/Wildapfel/modelling-root-to-shoot-ratios)
+&nbsp;&nbsp;&nbsp; Association mapping of quantitative phenotype traits in *Hordeum vulgare* using GAPIT. 
+- **Methods:** GWAS • FarmCPU • GLM • Manhattan/QQ plots • Linkage Disequilibrium • Significant Markers • Trait Prediction
+- **Stack:** Python • Scikit-learn • R • GAPIT • Pandas • Jupyter • Conda/Mamba • Docker • TeX
+-  • Genotype Data • GWAS • FarmCPU • GLM • Manhattan/QQ Plots
+ 
 </details>
 
 <br>
