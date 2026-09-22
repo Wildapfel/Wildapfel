@@ -69,7 +69,7 @@ I am available for collaboration, consulting and freelance work.
 - Association mapping of quantitative phenotype traits in *Hordeum vulgare* using GAPIT.
     - GWAS • FarmCPU • GLM • Manhattan/QQ plots • Linkage Disequilibrium • Significant Markers • Trait Prediction
     - Python • Scikit-learn • R • GAPIT • Pandas • Jupyter • Conda/Mamba • Docker • Bash • TeX
-- [demo-repository](https://github.com/Wildapfel/modelling-root-to-shoot-ratios)
+- [demo-repository]([https://github.com/Wildapfel/modelling-root-to-shoot-ratios](https://github.com/Wildapfel/gwas-quantitative-traits-hordeum-vulgare))
 </details>
 
 <br>
